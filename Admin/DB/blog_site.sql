@@ -70,6 +70,7 @@ CREATE TABLE `category` (
 
 --
 -- Dumping data for table `category`
+
 --
 
 INSERT INTO `category` (`category_id`, `category_name`, `category_img`, `category_status`) VALUES
