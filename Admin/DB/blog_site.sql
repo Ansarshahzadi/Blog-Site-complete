@@ -94,7 +94,6 @@ CREATE TABLE `contact_info` (
   `contact_email` varchar(50) NOT NULL,
   `contact_address` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
-
 --
 -- Dumping data for table `contact_info`
 --
