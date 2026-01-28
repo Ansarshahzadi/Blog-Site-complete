@@ -112,7 +112,6 @@ CREATE TABLE `faq` (
   `question` text NOT NULL,
   `answer` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
-
 --
 -- Dumping data for table `faq`
 --
