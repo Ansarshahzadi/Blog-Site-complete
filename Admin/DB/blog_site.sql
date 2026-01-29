@@ -124,7 +124,6 @@ INSERT INTO `faq` (`id`, `question`, `answer`) VALUES
 (9, 'This is Fifth Question for Testing?', 'Here is the answer of the question aosjflkasj alkjsfdkljasj');
 
 -- --------------------------------------------------------
-
 --
 -- Table structure for table `posts`
 --

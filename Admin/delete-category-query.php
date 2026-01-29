@@ -18,7 +18,4 @@ else{
 
     mysqli_close($cn);
 }
-
-
-
 ?>
