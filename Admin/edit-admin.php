@@ -15,7 +15,6 @@
 
         <!-- sidebar -->
         <?php include("./includes/sidebar.php") ?>
-
         <div class="content" id="content">
             <!-- navbar -->
             <?php include("./includes/navbar.php") ?>
