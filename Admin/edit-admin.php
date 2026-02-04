@@ -24,8 +24,6 @@
                         <li aria-current="page"> <a href="view-admin.php" class="text-decoration-none text-white"><i class="bi bi-eye-fill"></i> View Admin </a></li>
                     </ol>
                 </nav>
-
-
                 <div class="card mb-3">
                     <div class="card-body">
                         <div class="row">
