@@ -30,7 +30,6 @@
                             <div class="col-lg-3">
                                 <h5><i class="bi bi-pencil-square"></i> Edit <span class="text-warning">Admin</span></h5>
                             </div>
-
                             <!--empty col -->
                             <div class="col-lg-1"></div>
 
