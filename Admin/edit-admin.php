@@ -32,7 +32,6 @@
                             </div>
                             <!--empty col -->
                             <div class="col-lg-1"></div>
-
                             <div class="col-lg-8">
                                 <?php
                                 if (!empty($_SESSION['status'])) {
